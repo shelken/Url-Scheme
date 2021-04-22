@@ -20,7 +20,7 @@
 红包 | alipay://platformapi/startapp?saId=88886666
 发起聊天 | alipay://platformapi/startapp?appId=20000254&actionType=createGroup
 
-#### 2. 支付宝
+#### 3. 钉钉
 功能 | URL
 ---- | ----
 考勤打卡 | dingtalk://dingtalkclient/page/link?url=https://attend.dingtalk.com/attend/index.html
