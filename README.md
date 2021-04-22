@@ -2,7 +2,7 @@
 # 钉钉等ios app的快捷指令可以使用的url-seheme
 ---
 
-![](https://i.loli.net/2021/04/22/p8VEjmxIfwPTHyL.jpg)
+<img src="https://i.loli.net/2021/04/22/p8VEjmxIfwPTHyL.jpg"  width="200"/>
 
 #### 1. 微信
 功能 | URL | 备注
